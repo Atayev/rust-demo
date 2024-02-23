@@ -1,3 +1,2 @@
-fn main() {
-    println!("Hello, world!");
-}
+#![warn(clippy::all, clippy::pedantic)]
+fn main() {}
